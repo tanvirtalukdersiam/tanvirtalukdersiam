@@ -1,4 +1,4 @@
-# Hi there ,I’m Md Tanvir  a passionate MERN Stack Developer!
+# Hi there ,I’m Md Tanvir -a passionate MERN Stack Developer!
 I’m a dedicated and passionate MERN (MongoDB, Express.js, React.js, Node.js) Stack Developer with a strong background in building modern, responsive, and user-friendly web applications. I love turning ideas into reality through clean, efficient, and scalable code.your profile.
 
 💻 My Technical Skills:
