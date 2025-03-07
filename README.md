@@ -31,6 +31,8 @@ I’m on a journey to become the best version of myself as a developer, continuo
 - Advanced React.js and Next.js features
 - Performance optimization and SEO best practices for React websites
 - Scalable and efficient backend architectures
+
+  
 💬 Let’s Connect:
 I’m always open to collaborating on exciting projects, sharing knowledge, and connecting with fellow developers. Whether you’re looking for a developer to build your next big project or just want to discuss web development — feel free to reach out!
 
